@@ -10,4 +10,5 @@ abi
 truffle-config.js
 .idea
 
+# All Build files
 build
